@@ -4,7 +4,6 @@ clase-de-github
 Este es un ensayo de github 
 
 Estamos intentando trabajar con textos diversos
-anadiendo **negritas**
 
 Este archivo al abrirse se muestra en R
 y presenta una serie de comandos fáciles de usar como son
@@ -48,3 +47,18 @@ Ordered List  con numeros
 3. Item 3
    * Item 3a
    * Item 3b
+
+
+Tables
+-------------
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+   
+Images
+-------
+![alt text](/ensayo.png)
+
+![alt text](figures/img.png)
